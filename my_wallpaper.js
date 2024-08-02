@@ -25,7 +25,7 @@ var sizeMod = 0.4; // default 0.4
 
 function setup_wallpaper(pWallpaper) {
   pWallpaper.output_mode(GLIDE_WALLPAPER);
-  pWallpaper.resolution(NINE_PORTRAIT);
+  pWallpaper.resolution(A3);
   pWallpaper.show_guide(false); //set this to false when you're ready to print
   
 
